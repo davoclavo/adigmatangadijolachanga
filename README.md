@@ -1,20 +1,30 @@
 adigmatangadijolachanga
 =======================
 
-A set of tools to bruteforce Adigma enigmatic rallies
+A set of tools to facilitate or bruteforce Adigma enigmatic rallies
 
 Please contribute with dictionaries of words and terms
 
-Current dictionaries
---------------------
+Current tools
+-------------
+### Dictionaries
 
  * Infinitive verbs
 
-Wanted dictionaries
--------------------
+### Images
+
+Wanted tools
+------------
+
+### Dictionaries
 
  * Common nouns
  * Common verbs (infinitive)
  * Famous people
  * Animals
  * Places
+ * Spanish alphabet with letter numbers
+ 
+### Images
+ 
+ * Braille alphabet
