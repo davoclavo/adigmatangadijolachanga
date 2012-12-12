@@ -1,7 +1,7 @@
 adigmatangadijolachanga
 =======================
 
-A set of tools to facilitate or bruteforce Adigma enigmatic rallies
+A set of tools to help solve Adigma enigmatic rallies
 
 Please contribute with dictionaries of words and terms
 
