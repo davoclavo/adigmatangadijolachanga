@@ -34,3 +34,8 @@ Wanted tools
  
  * Add weight values to dictionaries
      - I think it is nice to keep the words sorted in alphabetical order, but add a value to query them first, or add keywords, so you can add hints and those words will be tested first.
+
+
+Results
+-------
+> 12th place on stage #11 - Gasherbrum (2012-12-13 10:00:05, *T-5:02*) - Created occupations dictionary
