@@ -10,6 +10,7 @@ Current tools
 ### Dictionaries
 
  * Infinitive verbs
+ * Common occupations
 
 ### Images
 
@@ -24,8 +25,12 @@ Wanted tools
  * Animals
  * Places
  * Spanish alphabet with letter numbers
- * Common occupations
  
 ### Images
  
  * Braille alphabet
+
+### Improvements
+ 
+ * Add weight values to dictionaries
+     - I think it is nice to keep the words sorted in alphabetical order, but add a value to query them first, or add keywords, so you can add hints and those words will be tested first.
