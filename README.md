@@ -24,6 +24,7 @@ Wanted tools
  * Animals
  * Places
  * Spanish alphabet with letter numbers
+ * Common occupations
  
 ### Images
  
