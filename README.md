@@ -14,8 +14,8 @@ Current tools
 
 ### Images
 
-Wanted tools
-------------
+TO-DO
+-----
 
 ### Dictionaries
 
@@ -35,7 +35,7 @@ Wanted tools
  
  * Add weight values to dictionaries
      - I think it is nice to keep the words sorted in alphabetical order, but add a value to query them first, or add keywords, so you can add hints and those words will be tested first.
-
+ * Fix spanish characters encoding: such as 'ñ'... and maybe 'ü', 'á', check if the answers work without special characters
 
 Results
 -------
