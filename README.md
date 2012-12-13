@@ -29,6 +29,7 @@ Wanted tools
 ### Images
  
  * Braille alphabet
+ * Morse code
 
 ### Improvements
  
